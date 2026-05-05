@@ -1,3 +1,7 @@
+---
+title: Privacy Policy - Air Logbook
+---
+
 # Air Logbook Privacy Policy
 
 Last updated: May 5, 2026
